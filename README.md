@@ -42,21 +42,5 @@ LLM bechmark results
 
 ## Findings
 
-Our findings include:
-
-- Private IP addresses
-- Home addresses
-- Shared documents
-- Images with location data
-- Login credentials
-- Service tokens
-- Severe internal conflicts
-- Confidential peer reviews
-- Private model training data and weights
-- and more...
-
-![credential findings example](assets/credentials-example.png)
-Examples credentials leakage found in our sample.
-
-![gemma findings](assets/llm-classifications.png)
-Total findings of the LLM-based entity extraction using Gemma-2.5 72B.
+![gemma findings](assets/results.png)
+All the findings summarized from all methods used.
