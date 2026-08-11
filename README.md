@@ -12,17 +12,22 @@ In this work, we present the first large-scale security audit of the arXiv prepr
 
 ## Citation
 
+The paper was presented at the 20th USENIX WOOT Conference on Offensive Technologies (2026, Baltimore, MD, USA). The full paper is available with open access at: [usenix.org](https://www.usenix.org/conference/woot26/presentation/dubniczky). The paper has artifacts evaluated to be **available**, **functional**, and **reproduced**.
+
 Please cite the research the following way:
 
 ```bibtex
-@misc{dubniczky2025latexposed,
-      title={You Have Been LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives Using Large Language Models}, 
-      author={Richard A. Dubniczky and Bertalan Borsos and Tihanyi Norbert},
-      year={2025},
-      eprint={2510.03761},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2510.03761}, 
+@inproceedings {dubniczky2026latexposed,
+    author = {Richard A. Dubniczky and Bertalan Borsos and Tamas Bisztray and Norbert Tihanyi},
+    title = {You Have Been {LaTeXpOsEd}: A {Large-Scale} Systematic Analysis of Information Leakage in Preprint Archives Using Large Language Models},
+    booktitle = {20th USENIX WOOT Conference on Offensive Technologies (WOOT 26)},
+    year = {2026},
+    isbn = {978-1-939133-57-1},
+    address = {Baltimore, MD},
+    pages = {247--261},
+    url = {https://www.usenix.org/conference/woot26/presentation/dubniczky},
+    publisher = {USENIX Association},
+    month = aug
 }
 ```
 
